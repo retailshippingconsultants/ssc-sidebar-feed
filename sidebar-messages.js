@@ -17,8 +17,8 @@ Keep this old-browser friendly:
 
 window.SSC_MESSAGES = [
   {
-    "title": "Pricing Reminder",
-    "message": "Review your shipping, packing, and dimensional weight pricing this week. Small undercharges add up quickly.",
+    "title": "Drop Off Pricing Reminder",
+    "message": "Review your carrier drop off pricing. FedEx has changed all compensation to 0.83 cents as of June 1.",
     "buttonText": "Open Pricing Help",
     "buttonUrl": "https://www.retailshippingconsultants.com/rsc-blog"
   },
