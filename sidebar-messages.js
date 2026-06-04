@@ -41,7 +41,7 @@ window.SSC_MESSAGES = [
   }
 ];
 
-window.SSC_MESSAGE_UPDATED = "June 1, 2026";
+window.SSC_MESSAGE_UPDATED = "June 4, 2026";
 
 if (window.SSC_applyMessages) {
   window.SSC_applyMessages();
