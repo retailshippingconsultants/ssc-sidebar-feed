@@ -17,6 +17,11 @@ Keep this old-browser friendly:
 
 window.SSC_MESSAGES = [
   {
+    "title": "POSTALMATE - STAMPS.COM ISSUE",
+    "message": "June 4 - Please note that Postalmate has identified a issue with printing 4x6 lables for USPS. More information will follow.",
+    "buttonText": "Postalmate Support",
+    "buttonUrl": "https://www.postalmate.com/support"
+  },{
     "title": "Drop Off Pricing Reminder",
     "message": "Review your carrier drop off pricing. FedEx has changed all compensation to 0.83 cents as of June 1.",
     "buttonText": "Open Pricing Help",
