@@ -17,7 +17,7 @@ Keep this old-browser friendly:
 
 window.SSC_MESSAGES = [
   {
-    "title": "POSTALMATE - July 13 ISSUES",
+    "title": "POSTALMATE - 14.7.7.20 - July 13 ISSUES",
     "message": "The latest update will not print USPS Lable Broker QR codes and FedEx HAL is currently not working.",
     "buttonText": "Postalmate Status",
     "buttonUrl": "https://app.getguru.com/card/TMzAeoKc/System-Status"
