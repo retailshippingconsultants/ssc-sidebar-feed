@@ -17,15 +17,10 @@ Keep this old-browser friendly:
 
 window.SSC_MESSAGES = [
   {
-    "title": "POSTALMATE - STAMPS.COM ISSUE",
-    "message": "June 4 - Please note that Postalmate has identified a issue with printing 4x6 lables for USPS. More information will follow.",
+    "title": "POSTALMATE - July 13 ISSUES",
+    "message": "The latest update will not print USPS Lable Broker QR codes and FedEx HAL is currently not working.",
     "buttonText": "Postalmate Status",
     "buttonUrl": "https://app.getguru.com/card/TMzAeoKc/System-Status"
-  },{
-    "title": "Drop Off Pricing Reminder",
-    "message": "Review your carrier drop off pricing. FedEx has changed all compensation to 0.83 cents as of June 1.",
-    "buttonText": "Open Pricing Help",
-    "buttonUrl": "https://www.retailshippingconsultants.com/rsc-blog"
   },
   {
     "title": "Merchant Services Checkup",
@@ -41,7 +36,7 @@ window.SSC_MESSAGES = [
   }
 ];
 
-window.SSC_MESSAGE_UPDATED = "June 4, 2026";
+window.SSC_MESSAGE_UPDATED = "July 14, 2026";
 
 if (window.SSC_applyMessages) {
   window.SSC_applyMessages();
